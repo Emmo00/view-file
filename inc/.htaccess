@@ -1,0 +1,3 @@
+<FilesMatch "\.php$">
+    Redirect 404 /
+</FilesMatch>
